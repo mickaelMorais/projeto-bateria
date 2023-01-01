@@ -44,7 +44,8 @@ h1{
     font-weight: bold;
 }
 .key.active{
-
+    border: 0.2rem solid var(--base-color-second);
+    color: var(--base-color-second);
 }
 .composer{
     width: 26rem;
